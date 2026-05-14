@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Tasty pancakes</title>
+    <link rel="icon" href="https://cdn.creazilla.com/emojis/57694/pancakes-emoji-clipart-md.png">
+    <meta="charset" charset="utf-8">
+  </head>
+  <body>
+    <h1>Tasty pancakes</h1>
+    <p>These tender, scalded milk pancakes stand out for their delicate, lace-like texture dotted with hundreds of tiny holes and a beautifully marbled, golden-caramel surface. Thanks to the unique technique of scalding the batter with boiling water, they turn out incredibly thin, silky, and pliable, allowing them to be easily folded or rolled into any shape without tearing. The pancakes feature soft, non-crispy edges and a perfectly balanced, subtle buttery-sweet flavor that melts in your mouth and pairs wonderfully with both sweet and savory fillings.</p>
+    <img src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/perfect-pancakes-ad7a753.jpg" alt="Perfect pancake on a frying pan">
+    <h2>Ingredients</h2>
+      <ul>
+        <li>2 eggs</li>
+        <li>1 cup of milk</li>
+        <li>1 cup of flour</li>
+        <li>1 cup of boiling water</li>
+        <li>2 tbsp of vegetable oil</li>
+        <li>2 tbsp of sugar</li>
+        <li>a pinch of salt</li>
+      </ul>
+    <h2>Instructions</h2>
+      <ol>
+        <li>Preparation: Whisk 2 eggs with 1 tbsp of sugar and a pinch of salt until smooth.</li>
+        <li>Batter: Add 1 cup of milk and 1 cup of sifted flour. Mix thoroughly with a whisk until lump-free.</li>
+        <li>Secret Step: Pour in 1 cup of boiling water (or sparkling water) while constantly stirring the batter. Mix in 2-3 tbsp of vegetable oil.</li>
+        <li>Frying: Cook on a preheated skillet for about 30-60 seconds per side until golden brown.</li>
+      </ol>
+    <h2>Tips for perfect result</h2>
+      <ul>
+        <li>Thin Pancakes: Adding boiling water creates a scalded batter that yields thin, delicate pancakes.</li>
+        <li>No Tearing: Using sparkling water instead of regular water makes the batter more elastic.</li>
+        <li>No Sticking: Adding vegetable oil directly into the batter prevents them from sticking to the pan.</li>
+      </ul>
+  </body>
+</html>
