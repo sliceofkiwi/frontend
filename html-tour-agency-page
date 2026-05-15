@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL21vdGFybzdfZ3JlZW5fbW91bnRhaW5faWNvbl9zaWxob3VldHRlX21vbm90b25lX3NpbXBsZV9hZXN0aGV0aV80YjY5Mzk3NS1lOWE3LTRkZTItYmU3Mi02NGZiN2RhYjdkYzdfMi5qcGc.jpg">
+    <title>Bittersweet berries</title>
+    <meta name="description" content="Best wild mountain forest tours for your soul" />
+  </head>
+  <body>
+    <h1>Bittersweet berries travel tour</h1>
+    <p>Wild places, strange tasty berries, wild animals in their nature habitat and more wait you here. Choose among our wide selection of guided tours like "here", "there" or "everywhere" and live an unforgettable experience exploring.</p>
+    <h2>Packages</h2>
+    <p>We offer an extensive range of forest trails to accommodate the needs of all our tourists. From short hiking excursions through the most picturesque corners of the mountains to thorough expeditions deep into the pristine forest and small lakes, to discover the lesser-known treasures of the wild nature of our region.</p>
+      <ul>
+        <li><a href="https://github.com/sliceofkiwi" target="_blank">Group Travels</a></li>
+        <li><a href="https://github.com/sliceofkiwi" target="_blank">Private Tours</a></li>
+        <li><a href="https://github.com/sliceofkiwi" target="_blank">"Leave me alone"(oneway tour)</a></li>
+      </ul>
+    <h2>Top Itineraries</h2>
+      <figure>
+        <a href="https://github.com/sliceofkiwi" target="_blank">
+          <img src="https://images.stockcake.com/public/e/d/5/ed5d3249-ff84-4d72-82a1-416c5429ef6c_large/mountain-floral-landscape-stockcake.jpg" alt="Flowers on top of mountain">
+        </a>
+        <figcaption>Mountain flower fields</figcaption>  
+      </figure>
+      <figure>
+        <a href="https://github.com/sliceofkiwi" target="_blank">
+          <img src="https://images.stockcake.com/public/a/9/e/a9e3d253-d347-4b7d-bf4b-7f54a1a1e4aa_large/lush-mountain-view-stockcake.jpg" alt="Misty evergreen forest">
+        </a>
+        <figcaption>Dense green forests</figcaption>  
+      </figure>
+      <figure>
+        <a href="https://github.com/sliceofkiwi" target="_blank">
+          <img src="https://willhiteweb.com/blue_ridge_parkway/sharp_top_mountain/sharp-top-mountain-view.jpg" alt="View from top of mountain">
+        </a>
+        <figcaption>Breathtaking peaks</figcaption>  
+      </figure>
+  </body>
+</html>
