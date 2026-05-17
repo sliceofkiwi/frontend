@@ -10,29 +10,28 @@
   <video autoplay
     width="500"
     controls
-    muted
-    poster="xxxxx"
+    poster="https://images.pexels.com/photos/2398220/pexels-photo-2398220.jpeg?w=500"
   >
     <source
-      src="xxxxx.mp4"
+      src="https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
       type="video/mp4"
     >
     <source
-      src="xxxxx.webm"
+      src="https://filesamples.com/samples/video/webm/sample_640x360.webm"
       type="video/webm"
     >
     <source
-      src="xxxxx.ogg"
+      src="https://filesamples.com/samples/video/webm/sample_640x360.ogg"
       type="video/ogg"
     >
     <source
-      src="xxxxx.mov"
+      src="https://filesamples.com/samples/video/webm/sample_640x360.mov"
       type="video/quicktime"
     >
   </video>
 <h2>Audio example</h2>
   <audio
-    src="https://freesound.org/s/620004/"
+    src="https://cdn.pixabay.com/audio/2024/12/08/audio_e451bc94af.mp3"
     controls
     muted
     loop
