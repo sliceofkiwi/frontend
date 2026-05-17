@@ -7,9 +7,10 @@
 </head>
 <body>
   <h1>Working with the HTML Video Element</h1>
-  <video autoplay
+  <video
     width="500"
     controls
+    muted
     poster="https://images.pexels.com/photos/2398220/pexels-photo-2398220.jpeg?w=500"
   >
     <source
@@ -30,10 +31,9 @@
     >
   </video>
 <h2>Audio example</h2>
-  <audio
+  <audio autoplay
     src="https://cdn.pixabay.com/audio/2024/12/08/audio_e451bc94af.mp3"
     controls
-    muted
     loop
   ></audio>
 </body>
