@@ -1,20 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
+<head>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Display Videos in an iframe</title>
-  </head>
-  <body>
-    <h1>iframe Video Display</h1>
-    <iframe
-      width="560"
-      height="315"
-      src="https://www.youtube.com/embed/U4lz8MN6MQA?si=ey6-n1rkjYG4BfWt"
-      allow="accelerometer autoplay clipboard-write encrypted-media gyroscope web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-    >
-    </iframe>
-  </body>
+    <title>Popular Video Compilation Page</title>
+</head>
+<body>
+<!--this is just example so don't look at text i wright in ^^"-->
+    <main>
+        <h1>The Chalkeaters</h1>
+        <p>Lib of best The Chalkeaters animations.</p>
+    </main>
+    <secrion>
+        <h2>DOOMxCROSSING collab animation</h2>
+        <p>Most popular vid on chanel.
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/U4lz8MN6MQA?si=ey6-n1rkjYG4BfWt"
+            allow="accelerometer autoplay clipboard-write encrypted-media gyroscope web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+            title="DOOM CROSSING: Eternal Horizons|Music Video"
+        ></iframe>
+    </sectoion>
+    <section>
+        <h2>Song about HalfLife3 that never see world</h2>
+        <p>Have 2nd place in popular list</p>
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/jpw2ebhTSKs?si=SLAmZGXeDL9e0GOy"
+            allow="accelerometer autoplay clipboard-write encrypted-media gyroscope web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+            title="Valve Song: COUNT TO THREE|Music Video"
+        ></iframe>
+    </section>
+    <section>
+        <h2>Funny song about Bowsette changing the win strategy</h2>
+        <p>3rd popular video</p>
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/l-FDFsHA20w?si=XapSiMobu1_Qj0jV"
+            allow="accelerometer autoplay clipboard-write encrypted-media gyroscope web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+            title="BOWSETTE in 23 Animation Styles!|Music Video"
+        ></iframe>
+    </section>
+</body>
 </html>
